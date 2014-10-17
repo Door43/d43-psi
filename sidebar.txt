@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psi:home|Door43 (psi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psi|d43-psi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psi/archive/master.zip|d43-psi.zip]]
+
+**Recent Changes**
+{{changes>ns = psi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psi|Ethnologue data]]
+
